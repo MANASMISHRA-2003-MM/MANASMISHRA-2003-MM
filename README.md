@@ -172,9 +172,8 @@ Python-based exploratory data analysis project on movies and ratings.
 ---
 
 
-# 📊 GITHUB STATS
 
-## 📊 GitHub Stats
+
 
 # 📊 GITHUB STATS
 
