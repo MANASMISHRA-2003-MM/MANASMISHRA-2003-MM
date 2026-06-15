@@ -1,7 +1,7 @@
-<h1 align="center">👨‍💻 MANAS MISHRA</h1>
+<h1 align="center">👨‍💻  𝕄𝔸ℕ𝔸𝕊 𝕄𝕀𝕊ℍℝ𝔸</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=950&lines=📊+DATA+ANALYST;🧠+ASPIRING+DATA+SCIENTIST;🤖+MACHINE+LEARNING+ENTHUSIAST;🚀+GENERATIVE+AI+LEARNER;📈+POWER+BI+%26+TABLEAU+DEVELOPER" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=950&lines=📊+DATA+ANALYST;🧠+ASPIRING+DATA+SCIENTIST;🤖+MACHINE+LEARNING;🚀+GENERATIVE+AI+LEARNER;📈+POWER+BI+%26+TABLEAU+DEVELOPER" />
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@
 
 ---
 
-## 🚀 GENERATIVE AI ECOSYSTEM
+## 🚀 GENERATIVE AI & ECOSYSTEM
 
 ![OPENAI](https://img.shields.io/badge/OPENAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![GOOGLE GEMINI](https://img.shields.io/badge/GOOGLE_GEMINI-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -159,16 +159,15 @@ Python-based exploratory data analysis project on movies and ratings.
 
 # 📊 GITHUB STATS
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MANASMISHRA-2003-MM&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MANASMISHRA-2003-MM&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MANASMISHRA-2003-MM&theme=tokyonight&hide_border=true&background=000000&ring=6EA8FE&fire=6EA8FE&currStreakLabel=C084FC" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MANASMISHRA-2003-MM&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANASMISHRA-2003-MM&layout=compact&theme=tokyonight" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANASMISHRA-2003-MM&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=A855F7" />
 </p>
 
 ---
