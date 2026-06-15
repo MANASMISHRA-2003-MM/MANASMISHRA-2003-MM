@@ -167,7 +167,7 @@ Python-based exploratory data analysis project on movies and ratings.
 
 <p align="center">
   <a href="https://github.com/MANASMISHRA-2003-MM/MANASMISHRA-2003-MM/raw/main/Manas_Mishra_Data_Analyst.pdf">
-    <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_MY_CV-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="60"/>
+    <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_CV-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="80"/>
   </a>
 </p>
 
