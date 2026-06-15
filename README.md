@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Manas Mishra</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=950&lines=📊+DATA+ANALYST;🧠+ASPIRING+DATA+SCIENTIST;🤖+MACHINE+LEARNING;🚀+GENERATIVE+AI+LEARNER;📈+POWER+BI+%26+TABLEAU+DEVELOPER" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=950&lines=✨+WELCOME+TO+MY+GITHUB+PROFILE;📊+DATA+ANALYST;🧠+ASPIRING+DATA+SCIENTIST;🤖+MACHINE+LEARNING;🚀+GENERATIVE+AI+LEARNER;📈+POWER+BI+%26+TABLEAU" />
 </p>
 
 <p align="center">
