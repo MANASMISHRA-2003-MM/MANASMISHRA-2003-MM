@@ -11,8 +11,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MANASMISHRA-2003-MM&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" />
   <img src="https://img.shields.io/badge/HACKATHON_WINNER-2X-gold?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CERTIFICATES-3-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PROJECTS-4-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CERTIFICATES-3+-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PROJECTS-4+-success?style=for-the-badge" />
 </p>
 
 ---
