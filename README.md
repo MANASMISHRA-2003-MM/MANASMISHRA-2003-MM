@@ -172,9 +172,7 @@ Python-based exploratory data analysis project on movies and ratings.
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_MY_CV-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="55"/>
   </a>
 </p>
-<p align="center">
-  <b>📄 View or Download My Latest Resume</b>
-</p>
+
 
 ---
 
