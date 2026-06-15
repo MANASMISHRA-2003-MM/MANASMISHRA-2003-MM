@@ -164,13 +164,16 @@ Python-based exploratory data analysis project on movies and ratings.
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=1500&pause=500&color=FF0000&center=true&vCenter=true&width=850&lines=🚀+DOWNLOAD+MY+CV;💜+DATA+ANALYST+PORTFOLIO;💙+PYTHON+%7C+SQL+%7C+POWER+BI;💚+MACHINE+LEARNING+%26+GENERATIVE+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=1500&pause=500&color=FF0000&center=true&vCenter=true&width=850&lines=🚀+DOWNLOAD+MY+CV;💜+Data+Analyst+Portfolio;💙+Excel+%7C+SQL+%7C+Power+BI+Tableau; />
 </p>
 
 <p align="center">
   <a href="https://github.com/MANASMISHRA-2003-MM/MANASMISHRA-2003-MM/raw/main/Manas_Mishra_Data_Analyst.pdf">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_MY_CV-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="55"/>
   </a>
+</p>
+<p align="center">
+  <b>📄 View or Download My Latest Resume</b>
 </p>
 
 ---
