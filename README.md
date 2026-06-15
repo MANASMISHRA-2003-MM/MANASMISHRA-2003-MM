@@ -172,9 +172,8 @@ Python-based exploratory data analysis project on movies and ratings.
 </p>
 
 <p align="center">
-  <b>📄 View or Download My Latest Data Analyst Resume</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=20&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=📄+View+Or+Dounload+My+Latest+Data+Analyst+Resume" />
 </p>
-
 ---
 
 
