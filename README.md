@@ -170,6 +170,16 @@ Python-based exploratory data analysis project on movies and ratings.
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANASMISHRA-2003-MM&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=A855F7" />
 </p>
 
+
+
+<h2 align="center">📄 DOWNLOAD CV</h2>
+
+<p align="center">
+  <a href="https://github.com/MANASMISHRA-2003-MM/MANASMISHRA-2003-MM/raw/main/Manas_Mishra_Data_Analyst.pdf">
+    <img src="https://img.shields.io/badge/📄_DOWNLOAD_CV-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 # 📫 CONNECT WITH ME
