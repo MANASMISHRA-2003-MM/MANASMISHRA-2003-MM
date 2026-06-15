@@ -164,7 +164,7 @@ Python-based exploratory data analysis project on movies and ratings.
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=1500&pause=500&color=FF0000&center=true&vCenter=true&width=850&lines=🚀+DOWNLOAD+MY+CV;💜+Data+Analyst+Portfolio;💙+Excel+%7C+SQL+%7C+Power+BI+Tableau; />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=1500&pause=500&color=FF0000&center=true&vCenter=true&width=850&lines=🚀+DOWNLOAD+MY+CV;💜+DATA+ANALYST+PORTFOLIO;💙+PYTHON+%7C+SQL+%7C+POWER+BI;💚+MACHINE+LEARNING+%26+GENERATIVE+AI" />
 </p>
 
 <p align="center">
