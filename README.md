@@ -176,14 +176,13 @@ Python-based exploratory data analysis project on movies and ratings.
 
 ## 📊 GitHub Stats
 
+# 📊 GITHUB STATS
+
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MANASMISHRA-2003-MM&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MANASMISHRA-2003-MM&theme=tokyonight&hide_border=true&background=000000&ring=6EA8FE&fire=6EA8FE&currStreakLabel=C084FC" />
 </p>
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANASMISHRA-2003-MM&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=A855F7" />
-</p>
 
 
 ---
